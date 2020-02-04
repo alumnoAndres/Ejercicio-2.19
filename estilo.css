@@ -1,0 +1,57 @@
+body{
+  margin: 0 0 2em;
+  background-color: lightgray;
+  font-family: sans-serif;
+  text-align: justify;
+}
+
+h1.titulo{
+    margin: 0;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-align: right;
+}
+
+p.fecha{
+  border-top: black 3px solid;
+  margin-top: 2em;
+  padding-top: 2em;
+  text-align: center;
+}
+
+time {
+    padding: 5px;
+    background-color: gray;
+    color: white;
+    font-size: 200%;
+    font-weight: bold;
+    letter-spacing: 5px;
+  }
+
+span.cargos{
+    background-color: white;
+    color: red;
+}
+
+p {
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+
+h2 {
+    margin-left: 20%;
+    margin-right: 20%;
+    border-bottom: white 5px solid;
+  }
+
+  span.sitio {
+    color: blue;
+  }
+
+  q {
+    border-bottom: red 1px dashed;
+    font-family: serif;
+    font-size: 150%;
+  }
+  
